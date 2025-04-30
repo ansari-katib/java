@@ -1,8 +1,8 @@
-import java.util.*;
+// import java.util.*;
 
-class function{
-    public static void main(String args[]){
-        Scanner sc = new Scanner(System.in);
+// class function{
+//     public static void main(String args[]){
+//         Scanner sc = new Scanner(System.in);
        
      
 // Q1 : concatination of a two string :
@@ -66,6 +66,6 @@ class function{
 
 
 
-    }
+//     }
 
-}
+// }

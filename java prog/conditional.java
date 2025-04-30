@@ -1,7 +1,7 @@
-import java.util.*;
+// import java.util.*;
 
-class conditional {
-    public static void main(String args[]){
+// class conditional {
+    // public static void main(String args[]){
 
 /* conditional statements :
    1 : if , else 
