@@ -1,4 +1,3 @@
-package Array;
 
 //  Array problem :
 //  lowest and higest value in array  :
