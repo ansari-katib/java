@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 // Selection Sort algorithm
 // comment contains the first iteration of the code 
-
+ 
 public class insertionSort {
     public static void main(String[] args) {
         int[] arr = { 45, 23, 76, 10, 6, 4, 90, 70 };
