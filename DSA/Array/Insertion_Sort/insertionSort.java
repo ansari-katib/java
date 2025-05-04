@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-// Selection Sort algorithm
+// insertion Sort algorithm
 // comment contains the first iteration of the code 
  
 public class insertionSort {
@@ -24,7 +24,6 @@ public class insertionSort {
                 // one step back
                 j--;
             }
-
             // in the empty index add the big value
             arr[index] = currentVal;
         }
