@@ -9,6 +9,7 @@ public class singlylinkedList {
             this.next = null;
         }
     }
+
     
     public static void main(String[] args) {
         Node firstNode = new Node(3);
